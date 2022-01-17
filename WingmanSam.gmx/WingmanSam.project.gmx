@@ -115,7 +115,11 @@
       <object>objects\object1_controller_main</object>
     </objects>
   </objects>
+  <timelines name="timelines">
+    <timeline>timelines\time_level1</timeline>
+  </timelines>
   <rooms name="rooms">
+    <room>rooms\test_room</room>
     <room>rooms\loader_room</room>
     <room>rooms\menu_room</room>
     <room>rooms\room_level_1</room>
