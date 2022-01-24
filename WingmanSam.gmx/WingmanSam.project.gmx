@@ -99,6 +99,7 @@
       <object>objects\obj_enemy_up</object>
       <object>objects\obj_enemy_shoot</object>
       <object>objects\obj_enemy_target</object>
+      <object>objects\object_boss</object>
     </objects>
     <objects name="HIScore">
       <object>objects\obj_clear_btn</object>
